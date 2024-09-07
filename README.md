@@ -16,7 +16,6 @@ Salman (autocorrect#7700)
 **Special Thanks to:**
 Naruto (NaRu#1507) | https://github.com/mirimel1001
 Marowan Goku (!Goku#1254)
-Adib (Adib23704#8947)
 
 # Updates:
 **January 9th, 2021:** v2 added Gang HQ's, Bengali HQ, HMA :eyes:
